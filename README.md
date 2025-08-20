@@ -69,4 +69,4 @@ Support employee retention strategies through data-driven insights
 
 5. Screenshots:
 
-![Dashboard_preview](https://github.com/Prerna0110/Ecommerce_dashboard/blob/main/Dashboard_Snapshot.png)
+![Dashboard_preview](https://github.com/Prerna0110/HR-Management-Dashboard/blob/main/Dashboard_Snapshot3.png)
